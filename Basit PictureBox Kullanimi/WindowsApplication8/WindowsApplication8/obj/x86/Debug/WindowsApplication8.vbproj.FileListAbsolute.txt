@@ -1,0 +1,9 @@
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication8\WindowsApplication8\obj\x86\Debug\WindowsApplication8.Form1.resources
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication8\WindowsApplication8\obj\x86\Debug\WindowsApplication8.Resources.resources
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication8\WindowsApplication8\obj\x86\Debug\WindowsApplication8.vbproj.GenerateResource.Cache
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication8\WindowsApplication8\obj\x86\Debug\WindowsApplication8.exe
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication8\WindowsApplication8\obj\x86\Debug\WindowsApplication8.xml
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication8\WindowsApplication8\obj\x86\Debug\WindowsApplication8.pdb
