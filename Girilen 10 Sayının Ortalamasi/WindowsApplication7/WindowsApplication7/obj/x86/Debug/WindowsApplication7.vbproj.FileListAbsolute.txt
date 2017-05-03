@@ -1,0 +1,9 @@
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form1.resources
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Resources.resources
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.exe
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.xml
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.pdb
