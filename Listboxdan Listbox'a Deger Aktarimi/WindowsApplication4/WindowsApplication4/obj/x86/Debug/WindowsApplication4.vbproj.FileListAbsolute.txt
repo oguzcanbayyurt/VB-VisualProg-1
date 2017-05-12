@@ -1,0 +1,15 @@
+c:\users\cmyo\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+c:\users\cmyo\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+c:\users\cmyo\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+c:\users\cmyo\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\cmyo\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form1.resources
+c:\users\cmyo\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Resources.resources
+c:\users\cmyo\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\cmyo\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\cmyo\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+c:\users\cmyo\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+c:\users\cmyo\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+c:\users\cmyo\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form2.resources
+D:\Oğuzcan\Dersler\Üniversite Dersler\2.Sınıf\Görsel Programalama 1\Örnekler\12.11.2015\listboxdan listboxa değer aktarma\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+D:\Oğuzcan\Dersler\Üniversite Dersler\2.Sınıf\Görsel Programalama 1\Örnekler\12.11.2015\listboxdan listboxa değer aktarma\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+D:\Oğuzcan\Dersler\Üniversite Dersler\2.Sınıf\Görsel Programalama 1\Örnekler\12.11.2015\listboxdan listboxa değer aktarma\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
