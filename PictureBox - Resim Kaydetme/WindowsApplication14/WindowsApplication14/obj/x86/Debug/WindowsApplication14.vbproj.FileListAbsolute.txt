@@ -1,0 +1,9 @@
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.exe
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.pdb
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.xml
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication14\WindowsApplication14\obj\x86\Debug\WindowsApplication14.Form1.resources
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication14\WindowsApplication14\obj\x86\Debug\WindowsApplication14.Resources.resources
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication14\WindowsApplication14\obj\x86\Debug\WindowsApplication14.vbproj.GenerateResource.Cache
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication14\WindowsApplication14\obj\x86\Debug\WindowsApplication14.exe
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication14\WindowsApplication14\obj\x86\Debug\WindowsApplication14.xml
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication14\WindowsApplication14\obj\x86\Debug\WindowsApplication14.pdb
