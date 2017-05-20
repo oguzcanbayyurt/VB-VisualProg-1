@@ -1,0 +1,15 @@
+C:\Users\CASPERR\Desktop\2015-2016 5 DERS\Görsel Programlama 1\epostaadresolusturma28122015\epostaadresolusturma28122015\bin\Debug\epostaadresolusturma28122015.exe
+C:\Users\CASPERR\Desktop\2015-2016 5 DERS\Görsel Programlama 1\epostaadresolusturma28122015\epostaadresolusturma28122015\bin\Debug\epostaadresolusturma28122015.pdb
+C:\Users\CASPERR\Desktop\2015-2016 5 DERS\Görsel Programlama 1\epostaadresolusturma28122015\epostaadresolusturma28122015\bin\Debug\epostaadresolusturma28122015.xml
+C:\Users\CASPERR\Desktop\2015-2016 5 DERS\Görsel Programlama 1\epostaadresolusturma28122015\epostaadresolusturma28122015\obj\x86\Debug\epostaadresolusturma28122015.Form1.resources
+C:\Users\CASPERR\Desktop\2015-2016 5 DERS\Görsel Programlama 1\epostaadresolusturma28122015\epostaadresolusturma28122015\obj\x86\Debug\epostaadresolusturma28122015.Resources.resources
+C:\Users\CASPERR\Desktop\2015-2016 5 DERS\Görsel Programlama 1\epostaadresolusturma28122015\epostaadresolusturma28122015\obj\x86\Debug\epostaadresolusturma28122015.vbproj.GenerateResource.Cache
+C:\Users\CASPERR\Desktop\2015-2016 5 DERS\Görsel Programlama 1\epostaadresolusturma28122015\epostaadresolusturma28122015\obj\x86\Debug\epostaadresolusturma28122015.exe
+C:\Users\CASPERR\Desktop\2015-2016 5 DERS\Görsel Programlama 1\epostaadresolusturma28122015\epostaadresolusturma28122015\obj\x86\Debug\epostaadresolusturma28122015.xml
+C:\Users\CASPERR\Desktop\2015-2016 5 DERS\Görsel Programlama 1\epostaadresolusturma28122015\epostaadresolusturma28122015\obj\x86\Debug\epostaadresolusturma28122015.pdb
+C:\Users\CASPERR\Desktop\2015-2016 5 DERS\Görsel Programlama 1\24epostaadresolusturma28122015\epostaadresolusturma28122015\obj\x86\Debug\epostaadresolusturma28122015.exe
+C:\Users\CASPERR\Desktop\2015-2016 5 DERS\Görsel Programlama 1\24epostaadresolusturma28122015\epostaadresolusturma28122015\obj\x86\Debug\epostaadresolusturma28122015.xml
+C:\Users\CASPERR\Desktop\2015-2016 5 DERS\Görsel Programlama 1\24epostaadresolusturma28122015\epostaadresolusturma28122015\obj\x86\Debug\epostaadresolusturma28122015.pdb
+C:\Users\ADMİN55\Desktop\24epostaadresolusturma28122015\epostaadresolusturma28122015\obj\x86\Debug\epostaadresolusturma28122015.exe
+C:\Users\ADMİN55\Desktop\24epostaadresolusturma28122015\epostaadresolusturma28122015\obj\x86\Debug\epostaadresolusturma28122015.xml
+C:\Users\ADMİN55\Desktop\24epostaadresolusturma28122015\epostaadresolusturma28122015\obj\x86\Debug\epostaadresolusturma28122015.pdb
