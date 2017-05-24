@@ -1,0 +1,9 @@
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\WindowsApplication12.exe
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\WindowsApplication12.pdb
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\WindowsApplication12.xml
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.Form.resources
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.Resources.resources
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.vbproj.GenerateResource.Cache
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.exe
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.xml
+C:\Users\ADMİN55\Documents\Visual Studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.pdb
